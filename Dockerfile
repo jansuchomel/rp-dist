@@ -1,4 +1,3 @@
-# A basic apache server. To use either add or bind mount content under /var/www
 FROM debian:stretch
 
 MAINTAINER Jan Suchomel <jansuchomel@gmx.com>
